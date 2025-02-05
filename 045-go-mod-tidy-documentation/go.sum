@@ -1,2 +1,6 @@
-github.com/mariaptv/GoPuppy v0.0.0-20250203023331-c5668adb6c27 h1:yOnCteAm5qJYDn6sWTzo66ncrKw9oe4Cfkh77755X/4=
-github.com/mariaptv/GoPuppy v0.0.0-20250203023331-c5668adb6c27/go.mod h1:jNT+siBe/wu/xkicLUTSOvDStSn1KPqrJygiQHr2QD0=
+github.com/mariaptv/Dog v0.0.0-20250205023732-5e508ed71011 h1:A6HbpqGxQaXI/Evh8HV4WD8KN/NIT2SSiQOWlfU/LzI=
+github.com/mariaptv/Dog v0.0.0-20250205023732-5e508ed71011/go.mod h1:jyybqUKuYvrgUhHmPghCImozdUIp1PUZJweL+tjeKYc=
+github.com/mariaptv/GoPuppy v0.0.0-20250203135857-2166f6132909 h1:8ZQYg6OXDZNzNl3Nj9luFssJde6sFsCNfms+h1sQ2fc=
+github.com/mariaptv/GoPuppy v0.0.0-20250203135857-2166f6132909/go.mod h1:jNT+siBe/wu/xkicLUTSOvDStSn1KPqrJygiQHr2QD0=
+github.com/mariaptv/GoPuppy v0.0.0-20250205031721-f0f57b30f8c0 h1:MVidjh0MMTbh5flHNFJZU6ATKpTKBnwyB5kddnMF854=
+github.com/mariaptv/GoPuppy v0.0.0-20250205031721-f0f57b30f8c0/go.mod h1:b7RleMn03Hbr+om0WSK5ajuYI5yGjK9G/ruzIoWgA1Q=
